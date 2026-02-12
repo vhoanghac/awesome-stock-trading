@@ -80,10 +80,12 @@ The curated list of resources for research and learning about stock trading and 
 ## Portfolio Tracker
 - [Portfolio Visualizer](https://portfoliovisualizer.com) - Portfolio management and analysis tool that provides portfolio optimization, backtesting, and risk analysis.
 - [Wealthica](https://www.wealthica.com) - Wealth management platform that provides portfolio management, financial planning, and investment research.
+- [Portfolio Performance](https://portfolio-performance.info) - An open source tool to calculate the overall performance of an investment portfolio - across all accounts - using True-Time Weighted Return or Internal Rate of Return.
 
 ## Strategy Backtesting
 - [Screening Tale](https://www.screeningtale.com) - Backtesting platform that allows users to test their trading strategies on historical data.
 - [QuantConnect](https://www.quantconnect.com) - Algorithmic trading platform that provides backtesting, live trading, and research tools for stocks, forex, and cryptocurrencies.
+- [Testfol.io](https://testfol.io) - Testfol.io is a portfolio backtesting tool.
 
 ## Stock Picks
 - [Alpha Picks](https://seekingalpha.com/alpha-picks/) - Alpha Picks gives you two top stock picks each month, sifted from Seeking Alpha analysis of thousands of stocks.
