@@ -11,6 +11,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Charting](#charting)
 - [News](#news)
 - [Commentaries](#commentaries)
+- [Blogs](#blogs)
 - [Portfolio Tracker](#portfolio-tracker)
 - [Strategy Backtesting](#strategy-backtesting)
 - [Stock Picks](#stock-picks)
@@ -76,6 +77,14 @@ The curated list of resources for research and learning about stock trading and 
 ## Commentaries
 - [J.P. Morgan - Market Updates](https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/market-updates/) - Weekly commentaries to get market insights from J.P. Morgan.
 - [MSCI - Market Insights](https://www.msci.com/research-and-insights/market-insights) - Market commentaries and research reports with a focus on macroeconomic topics.
+
+## Blogs
+- [Howard Marks Memo](https://www.oaktreecapital.com/insights/howard-marks-memos)
+- [A Wealth of Common Sense](http://awealthofcommonsense.com/)
+- [Of Dollars and Data](https://ofdollarsanddata.com/)
+- [Market Sentiment](https://www.marketsentiment.co/)
+- [Rebound Capital](https://reboundcapital.substack.com/)
+- [Be Water](https://bewaterltd.com/)
 
 ## Portfolio Tracker
 - [Portfolio Visualizer](https://portfoliovisualizer.com) - Portfolio management and analysis tool that provides portfolio optimization, backtesting, and risk analysis.
