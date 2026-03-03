@@ -37,7 +37,6 @@ The curated list of resources for research and learning about stock trading and 
 - [Morningstar](https://www.morningstar.com) - Provides investment research, ratings, and tools for stocks, mutual funds, and ETFs.
 - [Seeking Alpha](https://seekingalpha.com) - Offers market news and analysis, portfolio management tools, and investment ideas from contributors.
 - [Simply Wall St](https://simplywall.st/) - Simply Wall St. has a unique pictorial approach to quickly and effectively cut through the massive amounts of data to narrow to a select few candidates.
-- [Strike.Market](https://strike.market) - Offers a platform for trading options and derivatives on cryptocurrency markets.
 - [Tip Ranks](https://www.tipranks.com) - Provides ratings and analysis of stocks and financial experts based on their historical performance.
 - [Wall Street Zen](https://www.wallstreetzen.com) - Offers tools for financial analysis, screening, and backtesting of investment strategies.
 - [Wallmine](https://wallmine.com) - Provides stock analysis, screening, and news for individual investors.
@@ -46,16 +45,22 @@ The curated list of resources for research and learning about stock trading and 
 ## Cryptocurrency & Bitcoin
 ### Research & Analysis
 - [Glassnode](https://glassnode.com) - On-chain analytics
+- [CoinGlass](https://www.coinglass.com) — Funding rates, open interest, liquidations
 - [CryptoQuant](https://cryptoquant.com) - Professional metrics
 - [Messari](https://messari.io) - Crypto research
 - [The Block](https://www.theblock.co) - News & data
-- [Fear & Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
-- [BTC ETF Inflows](https://www.coinglass.com/etf/bitcoin)
+- [Bitcoin Fear & Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
+
+### Institutional Flows (ưu tiên theo dõi sát)
+- [Bitcoin Treasuries](https://bitcointreasuries.net) — Corporate holdings tracker
+- [Farside ETF Flows](https://farside.co.uk/bitcoin-etf-flow-all-data/) — Daily ETF inflow/outflow
+- [Bitcoin ETF Inflows](https://www.coinglass.com/etf/bitcoin) — Daily ETF inflow/outflow
 
 ### On-Chain Tools
 - [Whalemap](https://whalemap.io) - Whale cluster analysis
 - [Blockchain.com](https://www.blockchain.com/explorer) - Explorer
 - [Mempool.space](https://mempool.space) - Mempool analytics
+- [Polymarket Analytics](https://polymarketanalytics.com/) - Data on all Polymarket traders, markets, positions, and trades.
 
 ### Price & Market Data
 - [CoinGecko](https://www.coingecko.com) - Comprehensive data
@@ -105,6 +110,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Market Sentiment](https://www.marketsentiment.co/)
 - [Rebound Capital](https://reboundcapital.substack.com/)
 - [Be Water](https://bewaterltd.com/)
+- [Lyn Alden Research](https://www.lynalden.com) — Macro + Bitcoin
 
 ## Portfolio Tracker
 - [Portfolio Visualizer](https://portfoliovisualizer.com) - Portfolio management and analysis tool that provides portfolio optimization, backtesting, and risk analysis.
