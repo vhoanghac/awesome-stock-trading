@@ -50,6 +50,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Messari](https://messari.io) - Crypto research
 - [The Block](https://www.theblock.co) - News & data
 - [Bitcoin Fear & Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
+- [MVRV Z-Score](https://www.coinglass.com/pro/i/bitcoin-mvrv-zscore)
 
 ### Institutional Flows (ưu tiên theo dõi sát)
 - [Bitcoin Treasuries](https://bitcointreasuries.net) — Corporate holdings tracker
