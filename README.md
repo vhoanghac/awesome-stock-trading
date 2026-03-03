@@ -55,10 +55,11 @@ The curated list of resources for research and learning about stock trading and 
 - [DefiLlama Perp DEX](https://defillama.com/perps) - Decentralized perpetual exchange tracked on DefiLlama
 - [DefiLlama Stablecoin](https://defillama.com/stablecoins) - Total market cap of stablecoins
 
-### Institutional Flows (ưu tiên theo dõi sát)
+### Institutional Flows
 - [Bitcoin Treasuries](https://bitcointreasuries.net) — Corporate holdings tracker
 - [Farside ETF Flows](https://farside.co.uk/bitcoin-etf-flow-all-data/) — Daily ETF inflow/outflow
 - [Bitcoin ETF Inflows](https://www.coinglass.com/etf/bitcoin) — Daily ETF inflow/outflow
+- [SoSoValue Bitcoin ETF Dashboard](https://sosovalue.com/assets/etf/us-btc-spot) - Bitcoin ETF Dashboard (Net Inflows, Historical Data, ETF News)
 
 ### On-Chain Tools
 - [Whalemap](https://whalemap.io) - Whale cluster analysis
