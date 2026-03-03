@@ -6,7 +6,7 @@ The curated list of resources for research and learning about stock trading and 
 
 ## Contents
 - [Stock Research](#stock-research)
-- [Cryptocurrency](#crypto)
+- [Cryptocurrency](#cryptocurrency--bitcoin)
 - [Market Analysis](#market-analysis)
 - [Stock Screener](#stock-screener)
 - [Charting](#charting)
