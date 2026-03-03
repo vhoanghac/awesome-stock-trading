@@ -49,8 +49,11 @@ The curated list of resources for research and learning about stock trading and 
 - [CryptoQuant](https://cryptoquant.com) - Professional metrics
 - [Messari](https://messari.io) - Crypto research
 - [The Block](https://www.theblock.co) - News & data
-- [Bitcoin Fear & Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
+- [Bitcoin Fear & Greed Index](https://alternative.me/crypto/fear-and-greed-index/) - Bitcoin F&G Index
 - [MVRV Z-Score](https://www.coinglass.com/pro/i/bitcoin-mvrv-zscore)
+- [DefiLlama](https://defillama.com/) - Overview of all metrics tracked on all chains.
+- [DefiLlama Perp DEX](https://defillama.com/perps) - Decentralized perpetual exchange tracked on DefiLlama
+- [DefiLlama Stablecoin](https://defillama.com/stablecoins) - Total market cap of stablecoins
 
 ### Institutional Flows (ưu tiên theo dõi sát)
 - [Bitcoin Treasuries](https://bitcointreasuries.net) — Corporate holdings tracker
