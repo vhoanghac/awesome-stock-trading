@@ -6,6 +6,7 @@ The curated list of resources for research and learning about stock trading and 
 
 ## Contents
 - [Stock Research](#stock-research)
+- [Cryptocurrency](#crypto)
 - [Market Analysis](#market-analysis)
 - [Stock Screener](#stock-screener)
 - [Charting](#charting)
@@ -41,6 +42,25 @@ The curated list of resources for research and learning about stock trading and 
 - [Wall Street Zen](https://www.wallstreetzen.com) - Offers tools for financial analysis, screening, and backtesting of investment strategies.
 - [Wallmine](https://wallmine.com) - Provides stock analysis, screening, and news for individual investors.
 - [Zacks](https://www.zacks.com) - Provides research, analysis, and ratings for stocks and funds based on quantitative models and fundamental data.
+
+## Cryptocurrency & Bitcoin
+### Research & Analysis
+- [Glassnode](https://glassnode.com) - On-chain analytics
+- [CryptoQuant](https://cryptoquant.com) - Professional metrics
+- [Messari](https://messari.io) - Crypto research
+- [The Block](https://www.theblock.co) - News & data
+- [Fear & Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
+- [BTC ETF Inflows](https://www.coinglass.com/etf/bitcoin)
+
+### On-Chain Tools
+- [Whalemap](https://whalemap.io) - Whale cluster analysis
+- [Blockchain.com](https://www.blockchain.com/explorer) - Explorer
+- [Mempool.space](https://mempool.space) - Mempool analytics
+
+### Price & Market Data
+- [CoinGecko](https://www.coingecko.com) - Comprehensive data
+- [TradingView BTC](https://www.tradingview.com/symbols/BTCUSD/) - Charting
+- [Sosovalue](https://sosovalue.com/)
 
 ## Market Analysis
 - [Companies Market Cap](https://www.companiesmarketcap.com) - Provides a list of companies and their market capitalizations, allowing users to easily track the valuations of various publicly traded companies. It also includes useful data such as industry classifications and stock exchange listings.
